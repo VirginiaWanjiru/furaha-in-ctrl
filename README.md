@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
+    
 Virginia Wanjiru
+
 </head>
+
 <body>
 
 
 <!-- About Me -->
-<p>Hello, I'm a passionate Data analysis  and machine learning enthusiast. I enjoy building AI-powered applications and exploring the latest technologies.</p>
+<p>Hello, I'm a passionate Data analysis  and machine learning enthusiast. I enjoy building AI-powered applications and love to visualize data to extratc meaningful insights from the data .</p>
 
 <!-- Technologies & Skills -->
 <h3>Technologies & Skills</h3>
