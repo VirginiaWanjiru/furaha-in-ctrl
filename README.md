@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    
-Virginia Wanjiru
 
 </head>
 
@@ -10,7 +8,9 @@ Virginia Wanjiru
 
 
 <!-- About Me -->
-<p>Hello, I'm a passionate Data analysis  and Machine learning enthusiast. I enjoy building AI-powered applications and love to visualize data to extract meaningful insights from the data .</p>
+<p>Heyy Peeps,
+    
+I'm Virginia Wanjiru, a passionate Data Science and Machine learning enthusiast. I enjoy building AI-powered applications and love to visualize data to extract meaningful insights from the data.</p>
 
 <!-- Technologies & Skills -->
 <h3>Technologies & Skills</h3>
@@ -20,6 +20,7 @@ Virginia Wanjiru
     <li>🌐 Web Development</li>
     <li>📊 Data Analysis</li>
     <li>📊 Mobile Development</li>
+    <li>📊 UI/UX</li>
 </ul>
 
 
