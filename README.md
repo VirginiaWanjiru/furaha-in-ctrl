@@ -10,7 +10,7 @@ Virginia Wanjiru
 
 
 <!-- About Me -->
-<p>Hello, I'm a passionate Data analysis  and machine learning enthusiast. I enjoy building AI-powered applications and love to visualize data to extratc meaningful insights from the data .</p>
+<p>Hello, I'm a passionate Data analysis  and Machine learning enthusiast. I enjoy building AI-powered applications and love to visualize data to extract meaningful insights from the data .</p>
 
 <!-- Technologies & Skills -->
 <h3>Technologies & Skills</h3>
@@ -28,7 +28,7 @@ Virginia Wanjiru
 <p>Feel free to connect with me:</p>
 <ul>
     <li>Email: virginiachristine55@gmail.com</li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/feed/">Your LinkedIn Profile</a></li>
+    <li>LinkedIn: https://www.linkedin.com/feed/ </li>
 
 </ul>
 
