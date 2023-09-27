@@ -29,6 +29,7 @@ I'm Virginia Wanjiru, a passionate Data Science and Machine learning enthusiast.
 <p>Feel free to connect with me:</p>
 <ul>
     <li>Email: virginiachristine55@gmail.com</li>
+    <li>Email: virginia.wang'ang'a@strathmore.edu</li>
     <li>LinkedIn: https://www.linkedin.com/feed/ </li>
 
 </ul>
